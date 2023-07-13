@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LMSSystemAPI",
+    "\\LMSSystemAPI\\Dbcontext",
+    "\\LMSSystemAPI\\Dtos",
+    "\\LMSSystemAPI\\Helpers",
+    "\\LMSSystemAPI\\Mappers",
+    "\\LMSSystemAPI\\Migrations",
+    "\\LMSSystemAPI\\Models",
+    "\\LMSSystemAPI\\obj",
+    "\\LMSSystemAPI\\Properties"
+  ],
+  "SelectedNode": "\\LMSSystemAPI\\Migrations",
+  "PreviewInSolutionExplorer": false
+}
